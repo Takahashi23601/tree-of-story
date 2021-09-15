@@ -4,7 +4,7 @@
 
 ## 趣味、独学で作成したもの
 ## コンセプト:物語に関するアイデアを掲示板方式で育てていく
-## 使用技術：Larabel MYSQL PHP HTML/css JavaScript heroku
+## 使用技術：Larabel MYSQL PHP HTML/CSS JavaScript heroku
 ## リンクのみ
 
 ### top:新規投稿、アクセス数ごとのランキングを5つまで表示
